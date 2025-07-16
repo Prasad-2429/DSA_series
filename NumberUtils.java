@@ -15,4 +15,8 @@ public class NumberUtils {
     }
 }
 // The function getGreater uses a ternary operator to compare the two numbers.
+<<<<<<< HEAD
 // it returns num1 if its greater, otherwise it returns num2.
+=======
+// it returns num1 if its greater, otherwise it returns num2.
+>>>>>>> a2715db (All files uploaded successfully)

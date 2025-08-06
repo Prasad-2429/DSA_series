@@ -10,8 +10,8 @@ public class smallestArray {
     }
     public static void main (String args[]){
         int numbers [] = {1,2,6,3,5};
-        System.out.println("largest value");
-        System.out.println("largest value : " + getSmallest(numbers));
+        System.out.println("smallest value");
+        System.out.println("smallest value : " + getSmallest(numbers));
 
     }
     

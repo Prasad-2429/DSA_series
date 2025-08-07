@@ -18,7 +18,7 @@ public class prefixsum {
                 }
             }
         }
-        System.out.println("max summ : " + maxSum);
+        System.out.println("max sum : " + maxSum);
     }
     public static void main (String args[]){
         int numbers[]={1,-2,6,-1,3};
